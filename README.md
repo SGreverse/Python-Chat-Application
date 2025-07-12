@@ -3,4 +3,4 @@ A Simple Python Client-Server model that simulates a chat group, where you can e
 
 the project is one of my learning projects to better understand topics such as Networks, Security, ways of storing information and python in general.
 
-Note: All Sent Messages Were stored in a folder in the same repository as the project named "ServerMessages". You must create a new folder yourself otherwise the project most likely WILL NOT WORK.
+Note: All Sent Messages Were stored in a folder in the same repository as the python server project named "ServerMessages". You must create a new folder yourself otherwise the project most likely WILL NOT WORK.
